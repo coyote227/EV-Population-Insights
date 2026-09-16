@@ -1,0 +1,35 @@
+EV Dashboard Chart Relevance
+
+1. Executive Overview
+- Total EVs Registered: shows whether EV adoption is growing quickly or slowing down.
+- EV-to-Charger Ratio: tells whether charging infrastructure is keeping up with demand.
+- Average Range: indicates how practical EVs are becoming for daily use.
+- Median MSRP: shows whether EVs are becoming more affordable over time.
+
+2. Market Trends
+- Price-to-Range Efficiency: helps compare the value of different EV brands and models.
+- OEM benchmark: shows which manufacturers are offering stronger range and better product performance.
+- Adoption Momentum: reveals how average range and price are changing across years.
+
+3. Model Explorer
+- Lists the available EV and PHEV models under the selected filters.
+- Helps users compare vehicle range, cost, and drivetrain type.
+- Useful for identifying the best vehicle options in a given year or powertrain class.
+
+4. Adoption Outlook
+- Shows the long-term shift from internal combustion vehicles to electrified vehicles.
+- BEV and PHEV mix reveals whether the transition is battery-led or hybrid-led.
+- Helps estimate future market direction and policy needs.
+
+5. Geospatial Map
+- Highlights where EV adoption is strongest in the state.
+- Helps identify high-demand regions and underserved areas.
+- Useful for regional planning and charging station placement.
+
+6. Infrastructure Deficit
+- Compares current public charging ports against projected EV demand.
+- Shows the largest shortfalls by county and the capital investment needed.
+- Helps prioritize where infrastructure expansion is most urgent.
+
+Overall relevance:
+These charts together explain how EV adoption is changing, which vehicles are gaining traction, where demand is growing, and where infrastructure must be expanded to support the transition.
